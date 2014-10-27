@@ -24,7 +24,9 @@ _To see a complete example - fork the project - **https://github.com/amareshp/te
 [Listener](https://github.com/amareshp/testng-examples/blob/master/src/main/java/com/amareshp/annotations/MyTestNGAnnotationListener.java)
 
 To learn more about Java's Service Provider Interface (SPI) - 
+
 [Java SPI](http://docs.oracle.com/javase/tutorial/sound/SPI-intro.html)
 
 You can also use the SPI project's @ProviderFor annotation to avoid creating necessary files for the SPI to work - 
+
 [SPI Project](https://code.google.com/p/spi/)
