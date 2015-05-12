@@ -8,3 +8,4 @@ switch to the branch that has the unwanted file (my-file.txt).
 
 git checkout HEAD -- my-file.txt
 
+------------------
